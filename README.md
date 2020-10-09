@@ -1,4 +1,10 @@
-### Hi there 👋
+<h2 align="center">Hello, I'm Tanha 👋🏽 </h2>
+<h3 align="center">
+<a href="https://www.linkedin.com/in/tanhapatoliya/" >
+  <img  src="https://img.shields.io/badge/LinkedIn-Tanha-blue?logo=Linkedin&logoColor=blue&labelColor=black&style=for-the-badge" alt="Linkedin | Tanha">
+</a>
+</h3>
+
 
 <!--
 **tanha-p/tanha-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
