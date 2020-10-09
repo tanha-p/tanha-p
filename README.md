@@ -1,9 +1,13 @@
 <h2 align="center">Hello, I'm Tanha 👋🏽 </h2>
 <h3 align="center">
-<a href="https://www.linkedin.com/in/tanhapatoliya/" >
-  <img  src="https://img.shields.io/badge/LinkedIn-Tanha-blue?logo=Linkedin&logoColor=blue&labelColor=black&style=for-the-badge" alt="Linkedin | Tanha">
-</a>
+  <a href="https://www.linkedin.com/in/tanhapatoliya/" >
+    <img  alt="tanhapatoliya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://www.instagram.com/flower__journal/" >
+    <img  alt="@flower__journal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
 </h3>
+
 
 
 <!--
