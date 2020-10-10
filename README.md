@@ -7,6 +7,7 @@
     <img  alt="@flower__journal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
 </h3>
+
 <h6 align="center">OPINIONATED SOFTWARE DEVELOPER</h6>
 <h2>Technologies</h2>
 <h3>Technologies I Love to work with</h3>
