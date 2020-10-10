@@ -8,9 +8,9 @@
   </a>
 </h3>
 
-<h6 align="center">OPINIONATED SOFTWARE DEVELOPER</h6>
+<h6 align="center">OPINIONATED CODER</h6>
 <h2>Technologies</h2>
-<h3>Love to work with</h3>
+<h3>💕 Love to work with</h3>
 <p>
   <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/javascript-original.svg"   />
   <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/nodejs-original-wordmark.svg"  />
@@ -30,32 +30,53 @@
   <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/trello-plain-wordmark.svg" />
 </p>
 
-<h3>Find unnecessarily complicated</h3>
+<h3>🤔 Find unnecessarily complicated</h3>
 <p>
   <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/redux-original.svg" />
   <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/amazonwebservices-original-wordmark.svg" />
   <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/webpack-original-wordmark.svg" />
 </p>
 
-<h3>Can work with (if I absolutely must) but can't love</h3>
+<h3>🙄 Can work with (if I absolutely must) but can't love</h3>
 <p>
   <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/angularjs-original.svg" />
   <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/backbonejs-original-wordmark.svg" />
-  <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/bitbucket-original-wordmark.svg" />
   <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/java-original-wordmark.svg" />
 </p>
 
-<h3>Want to learn</h3>
+<h3>👇 Want to learn</h3>
 <p>
   <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/python-original.svg" />
+  <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/postgresql-original-wordmark.svg" />
   <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/electron-original-wordmark.svg" />
   <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/docker-original-wordmark.svg" />
 </p>
 
-<h3>Hope I never have to learn</h3>
+<h3>😶 Hope I never have to learn</h3>
 <p>
   <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/typescript-original.svg" />
 </p>
+
+
+
+<h2>Open Source Work</h2>
+<a href="https://www.tipoff.dev">https://www.tipoff.dev</a>
+
+
+<!-- -->
+
+
+[![Tipoff Card](https://github-readme-stats.vercel.app/api/pin/?username=tanha-p&repo=tipoff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanha-p&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<h2>Stats</h2>
+
+<!-- -->
+
+[![Tanha's github stats](https://github-readme-stats.vercel.app/api?username=tanha-p&show_icons=true&langs_count=10&hide=prs,issues,contribs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 <!--
 **tanha-p/tanha-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
