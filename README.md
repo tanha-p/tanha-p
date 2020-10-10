@@ -10,7 +10,7 @@
 
 <h6 align="center">OPINIONATED SOFTWARE DEVELOPER</h6>
 <h2>Technologies</h2>
-<h3>Technologies I Love to work with</h3>
+<h3>Love to work with</h3>
 <p>
   <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/javascript-original.svg"   />
   <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/nodejs-original-wordmark.svg"  />
@@ -21,24 +21,38 @@
   <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/github-original.svg" />
   <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/visualstudio-plain.svg" />
   <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/mocha-plain.svg" />
+  <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/bootstrap-plain-wordmark.svg" />
+  <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/html5-original.svg" />
+  <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/css3-original.svg" />
+  <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/heroku-original-wordmark.svg" />
+  <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/jquery-original-wordmark.svg" />
+  <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/mysql-original-wordmark.svg" />
+  <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/trello-plain-wordmark.svg" />
 </p>
 
-<h3>Technologies that need improvement before I can love them</h3>
+<h3>Find unnecessarily complicated</h3>
 <p>
   <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/redux-original.svg" />
+  <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/amazonwebservices-original-wordmark.svg" />
+  <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/webpack-original-wordmark.svg" />
 </p>
 
-<h3>Technologies I can work with (if I absolutely must) but can't love</h3>
+<h3>Can work with (if I absolutely must) but can't love</h3>
 <p>
+  <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/angularjs-original.svg" />
+  <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/backbonejs-original-wordmark.svg" />
+  <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/bitbucket-original-wordmark.svg" />
   <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/java-original-wordmark.svg" />
 </p>
 
-<h3>Technologies I want to learn</h3>
+<h3>Want to learn</h3>
 <p>
   <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/python-original.svg" />
+  <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/electron-original-wordmark.svg" />
+  <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/docker-original-wordmark.svg" />
 </p>
 
-<h3>Technologies I hope I never have to learn</h3>
+<h3>Hope I never have to learn</h3>
 <p>
   <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/typescript-original.svg" />
 </p>
