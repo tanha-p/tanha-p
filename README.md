@@ -22,10 +22,26 @@
   <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/visualstudio-plain.svg" />
   <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/mocha-plain.svg" />
 </p>
+
 <h3>Technologies that need improvement before I can love them</h3>
+<p>
   <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/redux-original.svg" />
+</p>
+
 <h3>Technologies I can work with (if I absolutely must) but can't love</h3>
+<p>
+  <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/java-original-wordmark.svg" />
+</p>
+
 <h3>Technologies I want to learn</h3>
+<p>
+  <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/python-original.svg" />
+</p>
+
+<h3>Technologies I hope I never have to learn</h3>
+<p>
+  <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/typescript-original.svg" />
+</p>
 
 <!--
 **tanha-p/tanha-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
