@@ -41,7 +41,6 @@
 <p>
   <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/angularjs-original.svg" />
   <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/backbonejs-original-wordmark.svg" />
-  <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/bitbucket-original-wordmark.svg" />
   <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/java-original-wordmark.svg" />
 </p>
 
