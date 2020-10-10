@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react" />
   <img src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github" />
   <img src="https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code" />
+  <img src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/mocha-plain.svg" width="60px" />
 </p>
 <h3>Technologies that need improvement before I can love them</h3>
   <img src="https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=ffffff&labelColor=764ABC" />
