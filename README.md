@@ -77,7 +77,7 @@
 
 
 <h2>Things I love as much as coding</h2>
-<table >
+<table align="center">
   <tr>
     <td valign="center" align="center"><img width="200px" src="https://github.com/tanha-p/tanha-p/blob/main/img/illustrations/undraw_book_lover_mkck.svg" /></td>
     <td valign="center" align="center">Gardening</td>
