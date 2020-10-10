@@ -12,18 +12,18 @@
 <h2>Technologies</h2>
 <h3>Technologies I Love to work with</h3>
 <p>
-  <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" />
-  <img src="https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js" />
-  <img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express" />
-  <img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb" />
-  <img src="https://img.shields.io/badge/-Vue-000000?style=flat&logo=Vue.js" />
-  <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react" />
-  <img src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github" />
-  <img src="https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code" />
-  <img src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/mocha-plain.svg" width="60px" />
+  <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/javascript-original.svg"   />
+  <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/nodejs-original-wordmark.svg"  />
+  <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/express-original-wordmark.svg" />
+  <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/mongodb-original-wordmark.svg" />
+  <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/vuejs-original-wordmark.svg" />
+  <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/react-original.svg" />
+  <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/github-original.svg" />
+  <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/visualstudio-plain.svg" />
+  <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/mocha-plain.svg" />
 </p>
 <h3>Technologies that need improvement before I can love them</h3>
-  <img src="https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=ffffff&labelColor=764ABC" />
+  <img width="60px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/redux-original.svg" />
 <h3>Technologies I can work with (if I absolutely must) but can't love</h3>
 <h3>Technologies I want to learn</h3>
 
