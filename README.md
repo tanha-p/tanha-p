@@ -60,10 +60,14 @@
 
 
 <h2>Open Source Work</h2>
-<a href="https://www.tipoff.dev">https://www.tipoff.dev</a>
+
+<h5><a href="https://www.tipoff.dev">https://www.tipoff.dev</a></h5>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanha-p&repo=tipoff" alt="tipoff repo" /> 
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanha-p&&layout=compact" alt="Top languages" />
 </p>
 
