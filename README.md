@@ -62,18 +62,14 @@
 <h2>Open Source Work</h2>
 <a href="https://www.tipoff.dev">https://www.tipoff.dev</a>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanha-p&repo=tipoff" alt="tipoff repo" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanha-p&&layout=compact" alt="Top languages" />
+</p>
 
-<!-- -->
-
-
-[![Tipoff Card](https://github-readme-stats.vercel.app/api/pin/?username=tanha-p&repo=tipoff)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanha-p&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<h2>Stats</h2>
-
-<!-- -->
-
-[![Tanha's github stats](https://github-readme-stats.vercel.app/api?username=tanha-p&show_icons=true&langs_count=10&hide=prs,issues,contribs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanha-p&show_icons=true&hide=prs,issues,contribs" alt="tanha-p" /> 
+</p>
 
 
 <h2>Things I love as much as coding</h2>
@@ -122,3 +118,5 @@
 <h5>Icons by <a href="https://devicon.dev/">Devicon</a> & <a href="https://simpleicons.org/">Simple Icons</a></h5>
 <h5>Stats by <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>
 <h5>Illustrations by <a href="https://undraw.co/">unDraw</a></h5>
+  
+  ![Visitor Count](https://profile-counter.glitch.me/tanha-p/count.svg)
