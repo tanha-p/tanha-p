@@ -8,7 +8,7 @@
   </a>
 </h3>
 
-<h6 align="center">OPINIONATED CODER</h6>
+<h6 align="center">WEB DEVELOPER</h6>
 <h2>Technologies</h2>
 <h3>💕 Love to work with</h3>
 <p>
@@ -27,7 +27,7 @@
   <img width="40px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/heroku-original-wordmark.svg" />
   <img width="40px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/jquery-original-wordmark.svg" />
   <img width="40px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/mysql-original-wordmark.svg" />
-  <img width="40px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/trello-plain-wordmark.svg" />
+  <img width="40px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/postgresql-original-wordmark.svg" />
 </p>
 
 <h3>🤔 Find unnecessarily complicated</h3>
@@ -47,14 +47,8 @@
 <h3>👇 Want to learn</h3>
 <p>
   <img width="40px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/python-original.svg" />
-  <img width="40px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/postgresql-original-wordmark.svg" />
   <img width="40px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/electron-original-wordmark.svg" />
   <img width="40px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/docker-original-wordmark.svg" />
-</p>
-
-<h3>😶 Hope I never have to learn</h3>
-<p>
-  <img width="40px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/typescript-original.svg" />
 </p>
 
 
@@ -93,9 +87,6 @@
  </table>
 
 <h2>Fun Facts</h2>
-
-<h4>Started coding at age </h4>
-<h6>11</h6>
 
 <h4>First programming language</h4>
 <h6><a href="https://en.wikipedia.org/wiki/Logo_%28programming_language%29">LOGO</a></h6>
