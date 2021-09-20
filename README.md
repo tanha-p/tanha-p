@@ -1,6 +1,6 @@
 <h2 align="center">Hello, I'm Tanha 👋🏽 </h2>
 <h3 align="center">
-  <a href="https://www.linkedin.com/in/tanhapatoliya/" >
+  <a href="https://www.linkedin.com/in/tanha_p/" >
     <img  alt="tanhapatoliya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <a href="https://www.instagram.com/flower__journal/" >
@@ -34,7 +34,6 @@
 <p>
   <img width="40px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/redux-original.svg" />
   <img width="40px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/amazonwebservices-original-wordmark.svg" />
-  <img width="40px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/webpack-original-wordmark.svg" />
 </p>
 
 <h3>🙄 Can work with (if I absolutely must) but can't love</h3>
