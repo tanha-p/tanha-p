@@ -18,8 +18,7 @@
   <img width="40px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/mongodb-original-wordmark.svg" />
   <img width="40px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/vuejs-original-wordmark.svg" />
   <img width="40px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/react-original.svg" />
-  <img width="40px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/storybook.svg" />
-  <img width="40px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/github-original.svg" />
+  <img width="40px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/storybook-original.svg" />
   <img width="40px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/visualstudio-plain.svg" />
   <img width="40px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/mocha-plain.svg" />
   <img width="40px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/bootstrap-plain-wordmark.svg" />
@@ -29,6 +28,7 @@
   <img width="40px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/jquery-original-wordmark.svg" />
   <img width="40px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/mysql-original-wordmark.svg" />
   <img width="40px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/postgresql-original-wordmark.svg" />
+  <img width="40px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/github-original.svg" />
 </p>
 
 <h3>🤔 Find unnecessarily complicated</h3>
