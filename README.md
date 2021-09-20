@@ -47,8 +47,10 @@
 <h3>👇 Want to learn</h3>
 <p>
   <img width="40px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/python-original.svg" />
+  <img width="40px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/go.svg" />
   <img width="40px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/electron-original-wordmark.svg" />
   <img width="40px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/docker-original-wordmark.svg" />
+  <img width="40px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/kubernetes.svg" />
 </p>
 
 
