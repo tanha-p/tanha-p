@@ -59,18 +59,6 @@
 
 <h5><a href="https://www.tipoff.dev">https://www.tipoff.dev</a></h5>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanha-p&repo=tipoff" alt="tipoff repo" /> 
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanha-p&&layout=compact" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanha-p&show_icons=true&hide=prs,issues,contribs" alt="tanha-p" /> 
-</p>
-
 
 <h2>Things I love as much as coding</h2>
 <table align="center">
