@@ -17,8 +17,7 @@
   <img width="40px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/cursor-ai.svg" />
   <img width="40px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/mongodb-original-wordmark.svg" />
   <img width="40px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/react-original.svg" />
-  <img width="40px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/storybook-original.svg" />
-    
+  <img width="40px" src="https://github.com/tanha-p/tanha-p/blob/main/img/icons/figma.svg" />
 </p>
 
 <h2>Open Source Work</h2>
