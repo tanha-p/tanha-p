@@ -67,8 +67,4 @@
 <h5>Icons by <a href="https://devicon.dev/">Devicon</a> & <a href="https://simpleicons.org/">Simple Icons</a></h5>
 <h5>Stats by <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>
 <h5>Illustrations by <a href="https://undraw.co/">unDraw</a></h5>
-
-<p align="right">
-  <img src="https://profile-counter.glitch.me/tanha-p/count.svg" alt="visitor count" />
-</p>
   
