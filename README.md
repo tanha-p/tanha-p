@@ -22,7 +22,7 @@
 
 <h2>Open Source Work</h2>
 
-<h5><a href="https://www.tipoff.dev">https://www.tipoff.dev</a></h5>
+<h5>https://github.com/tanha-p/tipoff</h5>
 
 
 <h2>Things I love as much as coding</h2>
